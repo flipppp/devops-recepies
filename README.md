@@ -1,3 +1,6 @@
+# WEB forms
+https://github.com/flipppp/devops-recepies/tree/main/spring-petclinic-api-gateway/src/main/resources/static/scripts
+
 # Run project
 1. https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe
 1. ```
